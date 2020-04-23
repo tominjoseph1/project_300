@@ -1,0 +1,61 @@
+#+options: h:1 num:nil toc:nil
+#+title: Daily Stand-ups for Sprint 3
+#+author: LC7: Eduard, Tash, Tomin, Jordan
+#+LATEX_HEADER: \usepackage{fourier}
+
+* Original plans
+Before the while COVID-19 issue came up, we had a few ideas of what we
+wanted to do for sprint 3 which are as follow:
+
+- Do PIC16 capacities buttons (circuits and software).
+- Learn how to interface PIC16 to SD card (PIC lab maybe?).
+- Look into how we should buffer audio to the DAC.
+  - Research PIC interrupts to pause DAC writes.
+- Write basic music playback for the PIC.
+
+ We estimated that this would be about 20 hours of work.
+* Stand-up logs
+  /Note: we have been doing our stand-ups every Monday and Wednesday (and sometimes Friday) due to difficulties meeting./
+* Wednesday March 18
+   - We discussed pretty much nothing critical. Decided to hold off doing anything for the time-being.
+   - Eduard said we would pick up the PIC16 stuff.
+* Friday March 20
+   - This was the first opportunity for us to meet as a group during ENEL 300
+   - New course details mean we do not need a physical prototype, so we are throwing out most our plans for this sprint.
+     - We will no longer buy any parts.
+   - Talked about alternative methods of d emonstrating our project.
+     -*Verdict:* We have a C prototype, but it lacks the polish that
+     we want, so for this sprint we will look into methods of simulating
+     our product virtually as Eduard has recommended. [Assigned to
+     all; estimated time ~1.5 hours]
+* Monday March 23
+   - Quick meeting after 327 worksheets.
+   - Talked about status of our project and what tasks our group can do.
+     -*Verdict:* Jordan and Tomin can do revised technical requirments [estimated time 1 hour]. Tash
+     can work on typesetting and writing the documents [estimated time < 1 hour].
+* Wednesday March 25
+   - Talked a little about our demo.
+   - For simulation software there are a few different options, but 3 stand out:
+     1. GTK (hard)
+     2. nukler (hard)
+     3. QT (hard and only one of us know C++)
+     4. One of several audio programming languages.
+   - the GUI frameworks seem pretty obtuse, and none of us really want to learn a new
+     programming language. For know we will skip this part as it is not strictly required,
+     but may revisit it if time allows.
+* Friday March 27
+   - Discussed drawing schematics for key circuits in our ``imaginary'' design. No extra work 
+     really has to be done here, we just need to compile the diagrams that we have done for earlier
+     labs and stuff. [assigned to all; estimated time ~1.5 hour]
+   - We looked a bit more into the simulation aspect, and one possible part of this is designing our 
+     PC prototype to have a similar performance characteristics to the PIC platform - as in it should
+     be able to run on low-end hardware.
+* Monday March 30
+   - Finished compiling circuit schematics, all that will need to be done next sprint is digitizing our
+     drawings. We also came up with the idea of providing sample software, but lack of access to hardware
+     by all may make that impossible.
+   - Tomin and Jordan have finished the revised technical documentation, and will send it to Tash tonight.
+* Wednesday April 1
+   - Very short meeting to clarify a few things.
+   - Tash has finished compiling the documents, and Jordan can typeset it in TeX and send it off
+     tomorrow.

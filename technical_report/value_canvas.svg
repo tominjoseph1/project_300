@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350mm"
+   height="200mm"
+   viewBox="0 0 350 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="value_canvas.svg"
+   inkscape:export-filename="/home/fbi/build/ENEL-300/technical_report/pvc.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1125"
+         style="fill:#008066;fill-opacity:0.97647059;fill-rule:evenodd;stroke:#008066;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.97647059"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1107"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#008066;fill-opacity:0.97647059;fill-rule:evenodd;stroke:#008066;stroke-width:1.00000003pt;stroke-opacity:0.97647059"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1408"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1406"
+         style="fill:#008066;fill-opacity:0.97647059;fill-rule:evenodd;stroke:#008066;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.97647059"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1237"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#008066;fill-opacity:0.97647059;fill-rule:evenodd;stroke:#008066;stroke-width:1.00000003pt;stroke-opacity:0.97647059"
+         transform="scale(-0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1122"
+         style="fill:#008066;fill-opacity:0.97647059;fill-rule:evenodd;stroke:#008066;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.97647059"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="621.47754"
+     inkscape:cy="377.33798"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <g
+       id="g937"
+       transform="translate(105.58967,38.612858)">
+      <ellipse
+         ry="57.456242"
+         rx="55.666142"
+         cy="161.45886"
+         cx="152.07405"
+         id="path817"
+         style="fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:1.1437813;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path821"
+         d="m 96.599539,156.66662 55.623691,0.16782 37.66674,-37.66674"
+         style="fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:0.89303219;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path823"
+         d="M 194.32792,198.93913 152.30183,156.91304"
+         style="fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:0.89303219;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="227.05341"
+       y="155.08592"
+       id="text832"><tspan
+         sodipodi:role="line"
+         id="tspan830"
+         x="227.05341"
+         y="155.08592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;">There are now more than everbefore resources to</tspan><tspan
+         sodipodi:role="line"
+         x="227.05341"
+         y="157.35287"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan949">learn both the techincal and therhetical aspects of</tspan><tspan
+         sodipodi:role="line"
+         x="227.05341"
+         y="159.61983"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan951">music production.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="275.91452"
+       y="186.40128"
+       id="text832-3"><tspan
+         sodipodi:role="line"
+         id="tspan830-6"
+         x="275.91452"
+         y="186.40128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0.5;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;">Does not want to spend too much</tspan><tspan
+         sodipodi:role="line"
+         x="275.91452"
+         y="189.46198"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0.5;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan860">money either due to guilt over wasteful</tspan><tspan
+         sodipodi:role="line"
+         x="275.91452"
+         y="192.52267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0.5;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan862">spending, or lack of funds.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="275.57162"
+       y="195.68604"
+       id="text832-3-7"><tspan
+         sodipodi:role="line"
+         x="275.57162"
+         y="195.68604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0.5;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan862-5"> Getting started with music production</tspan><tspan
+         sodipodi:role="line"
+         x="275.57162"
+         y="198.74673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0.5;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan905">would make them cooler, give creative</tspan><tspan
+         sodipodi:role="line"
+         x="275.57162"
+         y="201.80743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0.5;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan907">outlets.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="275.68512"
+       y="204.93713"
+       id="text832-6"><tspan
+         sodipodi:role="line"
+         id="tspan830-2"
+         x="275.68512"
+         y="204.93713"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;">Busy with school or work, so</tspan><tspan
+         sodipodi:role="line"
+         x="275.68512"
+         y="207.20409"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan927">they do not want to spend all day trying</tspan><tspan
+         sodipodi:role="line"
+         x="275.68512"
+         y="209.47104"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan929">to learn enouph to pick-up a hobby.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="214.30284"
+       y="166.57913"
+       id="text832-1"><tspan
+         sodipodi:role="line"
+         x="214.30284"
+         y="166.57913"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan951-3">Satisfaction of creating cool music as an artisitic</tspan><tspan
+         sodipodi:role="line"
+         x="214.30284"
+         y="168.84608"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1068">expression.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="191.55592"
+       y="201.86546"
+       id="text832-1-1"><tspan
+         sodipodi:role="line"
+         x="191.55592"
+         y="201.86546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan951-3-0">Doesn't like the idea of spending tonnes of money</tspan><tspan
+         sodipodi:role="line"
+         x="191.55592"
+         y="204.13242"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1006">on a hobby they are not 100% sure they will enjoy --</tspan><tspan
+         sodipodi:role="line"
+         x="191.55592"
+         y="206.39937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1061">does not want to overpay.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="189.45033"
+       y="212.82631"
+       id="text832-1-1-5"><tspan
+         sodipodi:role="line"
+         x="189.45033"
+         y="212.82631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1033">Feels that a beginner peice of audio-kit may become too</tspan><tspan
+         sodipodi:role="line"
+         x="189.45033"
+         y="215.09326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1564">simple and not powerful enouph as they progress in skill level.</tspan></text>
+    <g
+       id="g1094"
+       transform="matrix(1.5919477,0,0,1.5919477,-7.228156,76.550061)">
+      <rect
+         y="39.976189"
+         x="26.080357"
+         height="68.791664"
+         width="68.791664"
+         id="rect1072"
+         style="fill:none;fill-opacity:1;stroke:#aaccff;stroke-width:0.80000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1074"
+         d="M 26.080356,108.76785 60.42894,74.419266"
+         style="fill:none;fill-opacity:1;stroke:#aaccff;stroke-width:0.80000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1076"
+         d="M 26.080356,39.976189 60.476191,74.372023"
+         style="fill:none;fill-opacity:1;stroke:#aaccff;stroke-width:0.80000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1078"
+         d="M 60.523437,74.372022 H 94.824776"
+         style="fill:none;fill-opacity:1;stroke:#aaccff;stroke-width:0.80000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#008066;stroke-width:0.80000001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97647059;marker-start:url(#marker1408);marker-end:url(#Arrow2Mend);paint-order:stroke fill markers"
+       d="m 143.72793,194.94643 h 57.73822"
+       id="path1096"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="86.628395"
+       y="205.37744"
+       id="text832-1-1-5-6"><tspan
+         sodipodi:role="line"
+         x="86.628395"
+         y="205.37744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1564-7">Keep the product low cost to make it less of</tspan><tspan
+         sodipodi:role="line"
+         x="86.628395"
+         y="207.64439"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1591">and investment. Users can buy it without dropping</tspan><tspan
+         sodipodi:role="line"
+         x="86.628395"
+         y="209.91135"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1593">a large sum of cash.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="76.938339"
+       y="217.28415"
+       id="text832-1-1-5-6-4"><tspan
+         sodipodi:role="line"
+         x="76.938339"
+         y="217.28415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1593-8">Have MIDI support enabled, so that as a user grows</tspan><tspan
+         sodipodi:role="line"
+         x="76.938339"
+         y="219.5511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1624">they can use the drum machine as a MIDI sequencer</tspan><tspan
+         sodipodi:role="line"
+         x="76.938339"
+         y="221.81805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1626">for digital audio workstations -- extends the life of</tspan><tspan
+         sodipodi:role="line"
+         x="76.938339"
+         y="224.08499"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1628">our product</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="6.1634521"
+       y="176.82176"
+       id="text832-1-1-6"><tspan
+         sodipodi:role="line"
+         x="6.1634521"
+         y="176.82176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1061-6">Provide a simple and low-cost drum machine at</tspan><tspan
+         sodipodi:role="line"
+         x="6.1634521"
+         y="179.08871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1744">a market price of below $100 CAD.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="5.2130013"
+       y="184.94836"
+       id="text832-1-1-6-2"><tspan
+         sodipodi:role="line"
+         x="5.2130013"
+         y="184.94836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1061-6-8">High level of support -- provide high quality</tspan><tspan
+         sodipodi:role="line"
+         x="5.2130013"
+         y="187.21532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1698">user manuals and video tutorials showing how</tspan><tspan
+         sodipodi:role="line"
+         x="5.2130013"
+         y="189.48227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1742">to use our drum machine </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="62.883545"
+       y="228.62547"
+       id="text832-1-1-5-6-4-9"><tspan
+         sodipodi:role="line"
+         x="62.883545"
+         y="228.62547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1628-0">Increase the flexability of our product by using samples</tspan><tspan
+         sodipodi:role="line"
+         x="62.883545"
+         y="230.89243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1736">rather than analouge synthesis. Makes it so the user has</tspan><tspan
+         sodipodi:role="line"
+         x="62.883545"
+         y="233.15938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1738">a wider variety of drum options to choose from so they</tspan><tspan
+         sodipodi:role="line"
+         x="62.883545"
+         y="235.42632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1740">can make a variety of sounds.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="65.780449"
+       y="148.51469"
+       id="text832-1-1-6-1"><tspan
+         sodipodi:role="line"
+         x="65.780449"
+         y="148.51469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1744-1">Provide good documentation for beginners to learn</tspan><tspan
+         sodipodi:role="line"
+         x="65.780449"
+         y="150.78165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1769">how to use our product.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="65.488495"
+       y="157.61932"
+       id="text832-1-1-6-1-3"><tspan
+         sodipodi:role="line"
+         x="65.488495"
+         y="157.61932"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1769-7">Keep the interface simple -- anybody should be able</tspan><tspan
+         sodipodi:role="line"
+         x="65.488495"
+         y="159.88628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1794">to pick up our product and start making music in only</tspan><tspan
+         sodipodi:role="line"
+         x="65.488495"
+         y="162.15323"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1796">a few minutes. This makes it so that users get the imme-</tspan><tspan
+         sodipodi:role="line"
+         x="65.488495"
+         y="164.42017"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1798">diate feeling of progression.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="115.66071"
+       y="121.61905"
+       id="text1802"><tspan
+         sodipodi:role="line"
+         id="tspan1800"
+         x="115.66071"
+         y="121.61905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;">Value Proposition Canvas </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="203.61305"
+       y="221.02141"
+       id="text832-1-1-5-3"><tspan
+         sodipodi:role="line"
+         x="203.61305"
+         y="221.02141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1564-75">May find using a drummachine hard  or confusing.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="59.651344"
+       y="241.74123"
+       id="text832-1-1-5-6-4-9-3"><tspan
+         sodipodi:role="line"
+         x="59.651344"
+         y="241.74123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;"
+         id="tspan1740-9">Make the user experience of our device simple and approachable.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="87.07724"
+       y="248.97824"
+       id="text1802-3"
+       transform="rotate(-34.471721)"><tspan
+         sodipodi:role="line"
+         id="tspan1800-6"
+         x="87.07724"
+         y="248.97824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;">Gains</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="314.74127"
+       y="43.847279"
+       id="text1802-3-7"
+       transform="rotate(41.516717)"><tspan
+         sodipodi:role="line"
+         id="tspan1800-6-5"
+         x="314.74127"
+         y="43.847279"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;">Pains</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="175.93558"
+       y="-333.51749"
+       id="text1802-3-7-3"
+       transform="rotate(88.891514)"><tspan
+         sodipodi:role="line"
+         id="tspan1800-6-5-5"
+         x="175.93558"
+         y="-333.51749"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332;">Customer Jobs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="61.625561"
+       y="136.36314"
+       id="text1802-6"><tspan
+         sodipodi:role="line"
+         id="tspan1800-2"
+         x="61.625561"
+         y="136.36314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332">Gain creators</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="61.431095"
+       y="260.32376"
+       id="text1802-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan1800-2-6"
+         x="61.431095"
+         y="260.32376"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332">Pain relievers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:futura;-inkscape-font-specification:futura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-246.15704"
+       y="20.4886"
+       id="text1802-6-7-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1800-2-6-7"
+         x="-246.15704"
+         y="20.4886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85000002;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332">Products &amp;</tspan><tspan
+         sodipodi:role="line"
+         x="-246.15704"
+         y="29.484434"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85000002;font-family:futura;-inkscape-font-specification:futura;stroke-width:0.26458332"
+         id="tspan1009">Services</tspan></text>
+  </g>
+</svg>

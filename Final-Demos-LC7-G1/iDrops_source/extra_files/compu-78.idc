@@ -1,0 +1,6 @@
+kick: "wavs/compurhythm_78_1.wav"
+snare: "wavs/compurhythm_78_2.wav"
+shaker: "wavs/compurhythm_78_3.wav"
+hat: "wavs/compurhythm_78_4.wav"
+bell: "wavs/compurhythm_78_5.wav"
+bell_alt: "wavs/compurhythm_78_6.wav"

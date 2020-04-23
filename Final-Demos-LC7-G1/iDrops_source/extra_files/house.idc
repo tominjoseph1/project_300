@@ -1,0 +1,6 @@
+Kick: "wavs/house_1_1.wav"
+Snare: "wavs/house_1_2.wav"
+Clap: "wavs/house_1_3.wav"
+Closed Hat: "wavs/house_1_4.wav"
+High Hat: "wavs/house_1_5.wav"
+Cymbil: "wavs/house_1_6.wav"

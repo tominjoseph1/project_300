@@ -1,0 +1,48 @@
+#ifndef CONFIG
+#define CONFIG
+#define SAMPLE_RATE (44100)
+#define MAX_SAMPLE_LEN (3.5f)
+#define DEFAULT_BPM (175)
+#define MIN_BPM (60.0f / MAX_SAMPLE_LEN + 5)
+#define FRAMES_PER_BUFFER (32)
+#define GAIN_CHANGE_AMOUNT (0.1)
+#define MAX_LOCAL_GAIN (1.4f)
+#define MAX_GLOBAL_GAIN (140)
+#define MAX_ECHO (40)
+#define WAVPATH0 "roland_tr_909_1.wav"
+#define WAVPATH1 "roland_tr_909_2.wav"
+#define WAVPATH2 "roland_tr_909_3.wav"
+#define WAVPATH3 "roland_tr_909_4.wav"
+#define WAVPATH4 "roland_tr_909_5.wav"
+#define WAVPATH5 "roland_tr_909_6.wav"
+#define TICKS 16
+#define INSTS 6
+
+#define OPENGL2
+
+#define NK_INCLUDE_FIXED_TYPES
+#define NK_INCLUDE_STANDARD_IO
+#define NK_INCLUDE_STANDARD_VARARGS
+#define NK_INCLUDE_DEFAULT_ALLOCATOR
+#define NK_INCLUDE_VERTEX_BUFFER_OUTPUT
+#define NK_INCLUDE_FONT_BAKING
+#define NK_INCLUDE_DEFAULT_FONT
+#define NK_IMPLEMENTATION
+#define NK_KEYSTATE_BASED_INPUT
+
+#ifdef OPENGL4
+#define NK_GLFW_GL4_IMPLEMENTATION
+#endif
+
+#ifdef OPENGL2
+#define NK_GLFW_GL2_IMPLEMENTATION
+#endif
+
+#define WINDOW_WIDTH 1750
+#define WINDOW_HEIGHT 900
+#define WINDOW_OPTIONS (NK_WINDOW_BACKGROUND | NK_WINDOW_MOVABLE | NK_WINDOW_TITLE | NK_WINDOW_SCALABLE)
+
+
+#define MAX_VERTEX_BUFFER 512 * 1024
+#define MAX_ELEMENT_BUFFER 128 * 1024
+#endif // CONFIG
